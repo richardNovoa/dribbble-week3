@@ -108,3 +108,27 @@
 .screenshot {
 	max-width: 1080px;
 }
+.btn--primary {
+	display: flex;
+	flex-direction: row;
+	padding: 8px 16px;
+	background: #d71e28;
+	border-radius: 4px;
+	color: #ffffff;
+}
+.btn--secondary {
+	display: flex;
+	flex-direction: row;
+	padding: 8px 16px;
+	background: #fdfcfc;
+	color: #d71e28;
+	border: 2px solid #d71e28;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.some-div {
+	position: absolute;
+	display: flex;
+	width: 500px;
+}
