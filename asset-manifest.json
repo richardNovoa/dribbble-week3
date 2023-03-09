@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dribbble-week3/static/css/main.2c4d84cc.css",
+    "main.js": "/dribbble-week3/static/js/main.e348bf85.js",
+    "static/js/787.038ce9fd.chunk.js": "/dribbble-week3/static/js/787.038ce9fd.chunk.js",
+    "static/media/screenshot.png": "/dribbble-week3/static/media/screenshot.379d3b1094358a503720.png",
+    "static/media/wfLogo.svg": "/dribbble-week3/static/media/wfLogo.20bf7f2044ba54be62a14c88f01f606d.svg",
+    "index.html": "/dribbble-week3/index.html",
+    "main.2c4d84cc.css.map": "/dribbble-week3/static/css/main.2c4d84cc.css.map",
+    "main.e348bf85.js.map": "/dribbble-week3/static/js/main.e348bf85.js.map",
+    "787.038ce9fd.chunk.js.map": "/dribbble-week3/static/js/787.038ce9fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4d84cc.css",
+    "static/js/main.e348bf85.js"
+  ]
+}
